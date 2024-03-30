@@ -7,11 +7,11 @@ The tabbar can be used to select the demo. Demos are provide for StackLayout, St
 
 ## Play Online
 
-URL: https://nepa1234software.github.io/LearnLayoutsQML-WebAssembly/
+URL: https://nepa1234software.github.io/LearnLayoutsQML-WebAssembly/appLearnLayoutsQML.html
 
 ## Code
 
-Repo URL: https://github.com/NePa1234Software/LearnLayoutsQML/appLearnLayoutsQML.html
+Repo URL: https://github.com/NePa1234Software/LearnLayoutsQML
 
 ## Licensing
 
