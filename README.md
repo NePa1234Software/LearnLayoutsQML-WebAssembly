@@ -16,6 +16,6 @@ Repo URL: https://github.com/NePa1234Software/LearnLayoutsQML
 ## Licensing
 
 See the license file and License Folder for details
-- The progream is build using the Qt Framework opensource version (https://www.qt.io/licensing/)
+- The program is build using the Qt Framework opensource version (https://www.qt.io/licensing/)
 - WebAssembly build powered by emscription SDK (https://emscripten.org/docs/introducing_emscripten/emscripten_license.html)
 
